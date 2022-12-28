@@ -1,7 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
-### <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="200">
 More about Me 
 
 ```javascript
@@ -51,7 +49,5 @@ const Sina_Bayandorian = {
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-bayandorian-0bb372246/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sina.sina.bayan@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sina_byn)
-<img src="https://media.giphy.com/media/KLqIPgROAwLRCIVcZr/giphy.gif" alt="memoji gif" width="100px" align="right">
-
 
 <br>
