@@ -3,6 +3,8 @@
 More about Me 
 
 ```javascript
+// hasn't been updated in a decade or so...
+
 const Sina_Bayandorian = {     
     pronouns: "He" | "Him",
     aboutMe: "I'm a Front-end Developer with lots and lots of Passion =)",
