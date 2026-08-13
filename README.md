@@ -56,7 +56,7 @@ const Sina_Bayandorian = {
 
 <div align="center">
     <picture>
-        <source srcset="https://github.com/sina-byn/sina-byn/blob/output/github-snake.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/sina-byn/sina-byn/blob/output/github-snake-dark.svg" alt="snake gif">
+        <source srcset="https://github.com/sina-byn/sina-byn/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://github.com/sina-byn/sina-byn/blob/output/github-snake.svg" alt="snake gif">
     </picture>
 </div>
