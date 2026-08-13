@@ -55,5 +55,8 @@ const Sina_Bayandorian = {
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sina_byn)
 
 <div align="center">
-![snake gif](https://github.com/sina-byn/sina-byn/blob/output/github-snake-dark.svg)
+    <picture>
+        <source srcset="https://github.com/sina-byn/sina-byn/blob/output/github-snake.svg" media="(prefers-color-scheme: light)">
+        <img src="https://github.com/sina-byn/sina-byn/blob/output/github-snake-dark.svg" alt="snake gif">
+    </picture>
 </div>
