@@ -54,4 +54,6 @@ const Sina_Bayandorian = {
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sina.sina.bayan@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sina_byn)
 
+<div align="center">
 ![snake gif](https://github.com/sina-byn/sina-byn/blob/output/github-snake-dark.svg)
+</div>
